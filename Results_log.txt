@@ -1,0 +1,23 @@
+
+
+Quantity Ups: 159443
+
+
+Quantity Downs: 1199
+
+
+Current Availability: 99,2536%
+
+
+Current Unavailability: 0,7464%
+
+
+Current TimeUp: 17121,249
+
+
+Current TimeDown: 128,751
+
+
+Current #9s: 2,127
+
+

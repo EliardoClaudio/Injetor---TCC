@@ -1,0 +1,424 @@
+Generated Failure Time: 120000
+Mon Nov 09 12:49:35 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 12:51:36 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 12:52:07 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 12:53:08 BRT 2015
+Generated Failure Time: 563821
+Mon Nov 09 12:54:00 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 13:03:25 BRT 2015
+Generated Repair Time: 563821
+Mon Nov 09 13:03:56 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 13:13:21 BRT 2015
+Generated Failure Time: 600000
+Mon Nov 09 13:14:14 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 13:24:15 BRT 2015
+Generated Repair Time: 600000
+Mon Nov 09 13:24:46 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 13:34:47 BRT 2015
+Generated Failure Time: 600000
+Mon Nov 09 13:35:39 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 13:45:40 BRT 2015
+Generated Repair Time: 600000
+Mon Nov 09 13:46:11 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 13:56:12 BRT 2015
+Generated Failure Time: 600000
+Mon Nov 09 13:57:04 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 14:07:05 BRT 2015
+Generated Repair Time: 600000
+Mon Nov 09 14:07:36 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 14:17:37 BRT 2015
+Generated Failure Time: 250836
+Mon Nov 09 14:18:28 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 14:22:40 BRT 2015
+Generated Repair Time: 250836
+Mon Nov 09 14:23:12 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 14:27:24 BRT 2015
+Generated Failure Time: 544608
+Mon Nov 09 14:28:15 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 14:37:21 BRT 2015
+Generated Repair Time: 544608
+Mon Nov 09 14:37:52 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 14:46:58 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 14:47:49 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 14:49:50 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 14:50:22 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 14:51:23 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 14:52:13 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 14:54:14 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 14:54:46 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 14:55:47 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 14:56:37 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 14:58:38 BRT 2015
+Generated Repair Time: 64570
+Mon Nov 09 14:59:09 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 15:00:15 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 15:01:08 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 15:03:09 BRT 2015
+Generated Repair Time: 89252
+Mon Nov 09 15:03:40 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 15:05:10 BRT 2015
+Generated Failure Time: 243232
+Mon Nov 09 15:06:02 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 15:10:06 BRT 2015
+Generated Repair Time: 243232
+Mon Nov 09 15:10:37 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 15:14:42 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 15:15:32 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 15:17:33 BRT 2015
+Generated Repair Time: 81801
+Mon Nov 09 15:18:04 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 15:19:27 BRT 2015
+Generated Failure Time: 268576
+Mon Nov 09 15:20:17 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 15:24:47 BRT 2015
+Generated Repair Time: 268576
+Mon Nov 09 15:25:18 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 15:29:48 BRT 2015
+Generated Failure Time: 205560
+Mon Nov 09 15:30:38 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 15:34:05 BRT 2015
+Generated Repair Time: 205560
+Mon Nov 09 15:34:36 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 15:38:03 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 15:38:52 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 15:40:54 BRT 2015
+Generated Repair Time: 112545
+Mon Nov 09 15:41:25 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 15:43:19 BRT 2015
+Generated Failure Time: 600000
+Mon Nov 09 15:44:11 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 15:54:13 BRT 2015
+Generated Repair Time: 600000
+Mon Nov 09 15:54:44 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 16:04:45 BRT 2015
+Generated Failure Time: 600000
+Mon Nov 09 16:05:38 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 16:15:39 BRT 2015
+Generated Repair Time: 600000
+Mon Nov 09 16:16:10 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 16:26:11 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 16:27:03 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 16:29:04 BRT 2015
+Generated Repair Time: 100581
+Mon Nov 09 16:29:35 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 16:31:17 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 16:32:07 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 16:34:08 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 16:34:39 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 16:35:40 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 16:36:32 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 16:38:33 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 16:39:04 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 16:40:05 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 16:40:55 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 16:42:57 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 16:43:28 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 16:44:29 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 16:45:20 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 16:47:21 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 16:47:53 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 16:48:54 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 16:49:47 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 16:51:48 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 16:52:19 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 16:53:20 BRT 2015
+Generated Failure Time: 600000
+Mon Nov 09 16:54:12 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 17:04:13 BRT 2015
+Generated Repair Time: 600000
+Mon Nov 09 17:04:44 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 17:14:45 BRT 2015
+Generated Failure Time: 138571
+Mon Nov 09 17:15:37 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 17:17:56 BRT 2015
+Generated Repair Time: 138571
+Mon Nov 09 17:18:28 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 17:20:47 BRT 2015
+Generated Failure Time: 219155
+Mon Nov 09 17:21:37 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 17:25:17 BRT 2015
+Generated Repair Time: 219155
+Mon Nov 09 17:25:49 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 17:29:29 BRT 2015
+Generated Failure Time: 395921
+Mon Nov 09 17:30:19 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 17:36:56 BRT 2015
+Generated Repair Time: 395921
+Mon Nov 09 17:37:27 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 17:44:05 BRT 2015
+Generated Failure Time: 600000
+Mon Nov 09 17:44:56 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 17:54:57 BRT 2015
+Generated Repair Time: 600000
+Mon Nov 09 17:55:28 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 18:05:30 BRT 2015
+Generated Failure Time: 418789
+Mon Nov 09 18:06:21 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 18:13:21 BRT 2015
+Generated Repair Time: 418789
+Mon Nov 09 18:13:52 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 18:20:52 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 18:21:46 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 18:23:47 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 18:24:18 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 18:25:20 BRT 2015
+Generated Failure Time: 253887
+Mon Nov 09 18:26:11 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 18:30:26 BRT 2015
+Generated Repair Time: 253887
+Mon Nov 09 18:30:57 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 18:35:12 BRT 2015
+Generated Failure Time: 216921
+Mon Nov 09 18:36:02 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 18:39:40 BRT 2015
+Generated Repair Time: 216921
+Mon Nov 09 18:40:11 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 18:43:50 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 18:44:41 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 18:46:42 BRT 2015
+Generated Repair Time: 65820
+Mon Nov 09 18:47:13 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 18:48:20 BRT 2015
+Generated Failure Time: 442199
+Mon Nov 09 18:49:13 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 18:56:37 BRT 2015
+Generated Repair Time: 442199
+Mon Nov 09 18:57:08 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 19:04:31 BRT 2015
+Generated Failure Time: 419643
+Mon Nov 09 19:05:22 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 19:12:23 BRT 2015
+Generated Repair Time: 419643
+Mon Nov 09 19:12:54 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 19:19:55 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 19:20:45 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 19:22:46 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 19:23:18 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 19:24:19 BRT 2015
+Generated Failure Time: 235853
+Mon Nov 09 19:25:09 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 19:29:06 BRT 2015
+Generated Repair Time: 235853
+Mon Nov 09 19:29:37 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 19:33:34 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 19:34:24 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 19:36:25 BRT 2015
+Generated Repair Time: 109570
+Mon Nov 09 19:36:57 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 19:38:47 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 19:39:39 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 19:41:40 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 19:42:11 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 19:43:12 BRT 2015
+Generated Failure Time: 463863
+Mon Nov 09 19:44:02 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 19:51:47 BRT 2015
+Generated Repair Time: 463863
+Mon Nov 09 19:52:18 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 20:00:03 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 20:00:55 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 20:02:56 BRT 2015
+Generated Repair Time: 69476
+Mon Nov 09 20:03:27 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 20:04:38 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 20:05:29 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 20:07:30 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 20:08:02 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 20:09:03 BRT 2015
+Generated Failure Time: 120577
+Mon Nov 09 20:09:54 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 20:11:56 BRT 2015
+Generated Repair Time: 120577
+Mon Nov 09 20:12:27 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 20:14:29 BRT 2015
+Generated Failure Time: 159903
+Mon Nov 09 20:15:22 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 20:18:03 BRT 2015
+Generated Repair Time: 159903
+Mon Nov 09 20:18:34 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 20:21:15 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 20:22:05 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 20:24:06 BRT 2015
+Generated Repair Time: 60000
+Mon Nov 09 20:24:38 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 20:25:39 BRT 2015
+Generated Failure Time: 551339
+Mon Nov 09 20:26:30 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 20:35:43 BRT 2015
+Generated Repair Time: 551339
+Mon Nov 09 20:36:14 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 20:45:27 BRT 2015
+Generated Failure Time: 124056
+Mon Nov 09 20:46:18 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 20:48:23 BRT 2015
+Generated Repair Time: 124056
+Mon Nov 09 20:48:54 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 20:51:00 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 20:51:51 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 20:53:52 BRT 2015
+Generated Repair Time: 95732
+Mon Nov 09 20:54:23 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 20:56:00 BRT 2015
+Generated Failure Time: 120000
+Mon Nov 09 20:56:52 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 20:58:53 BRT 2015
+Generated Repair Time: 87415
+Mon Nov 09 20:59:24 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 21:00:53 BRT 2015
+Generated Failure Time: 580154
+Mon Nov 09 21:01:42 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 21:11:24 BRT 2015
+Generated Repair Time: 580154
+Mon Nov 09 21:11:55 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 21:21:36 BRT 2015
+Generated Failure Time: 128062
+Mon Nov 09 21:22:26 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 21:24:35 BRT 2015
+Generated Repair Time: 128062
+Mon Nov 09 21:25:07 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 21:27:16 BRT 2015
+Generated Failure Time: 197872
+Mon Nov 09 21:28:07 BRT 2015
+Failed. CLC: 192.168.5.2
+Mon Nov 09 21:31:26 BRT 2015
+Generated Repair Time: 197872
+Mon Nov 09 21:31:58 BRT 2015
+Started. CLC: 192.168.5.2
+Mon Nov 09 21:35:17 BRT 2015

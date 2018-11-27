@@ -1,0 +1,1126 @@
+Mon Oct 26 10:07:35 BRT 2015
+tempo de falha gerado: 218885milisegundos.
+Mon Oct 26 10:11:46 BRT 2015
+falhou a VMi-667F4482
+Mon Oct 26 10:11:47 BRT 2015
+tempo de reparo gerado: 218885milisegundos.
+Mon Oct 26 10:15:57 BRT 2015
+Nova VM rodando, Id: i-C25640FF
+Mon Oct 26 10:15:58 BRT 2015
+tempo de falha gerado: 145540milisegundos.
+Mon Oct 26 10:18:55 BRT 2015
+falhou a VMi-C25640FF
+Mon Oct 26 10:18:56 BRT 2015
+tempo de reparo gerado: 145540milisegundos.
+Mon Oct 26 10:21:53 BRT 2015
+Nova VM rodando, Id: i-9FC8472B
+Mon Oct 26 10:21:54 BRT 2015
+tempo de falha gerado: 357360milisegundos.
+Mon Oct 26 10:28:23 BRT 2015
+falhou a VMi-9FC8472B
+Mon Oct 26 10:28:24 BRT 2015
+tempo de reparo gerado: 357360milisegundos.
+Mon Oct 26 10:34:53 BRT 2015
+Nova VM rodando, Id: i-786A4553
+Mon Oct 26 10:34:54 BRT 2015
+tempo de falha gerado: 268302milisegundos.
+Mon Oct 26 10:39:53 BRT 2015
+falhou a VMi-786A4553
+Mon Oct 26 10:39:55 BRT 2015
+tempo de reparo gerado: 268302milisegundos.
+Mon Oct 26 10:44:54 BRT 2015
+Nova VM rodando, Id: i-20AA3E8C
+Mon Oct 26 10:44:55 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 10:47:27 BRT 2015
+falhou a VMi-20AA3E8C
+Mon Oct 26 10:47:28 BRT 2015
+tempo de reparo gerado: 108306milisegundos.
+Mon Oct 26 10:49:47 BRT 2015
+Nova VM rodando, Id: i-2630409C
+Mon Oct 26 10:49:49 BRT 2015
+tempo de falha gerado: 210022milisegundos.
+Mon Oct 26 10:53:50 BRT 2015
+falhou a VMi-2630409C
+Mon Oct 26 10:53:51 BRT 2015
+tempo de reparo gerado: 210022milisegundos.
+Mon Oct 26 10:57:52 BRT 2015
+Nova VM rodando, Id: i-3F3642AC
+Mon Oct 26 10:57:54 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 11:00:25 BRT 2015
+falhou a VMi-3F3642AC
+Mon Oct 26 11:00:26 BRT 2015
+tempo de reparo gerado: 115099milisegundos.
+Mon Oct 26 11:02:53 BRT 2015
+Nova VM rodando, Id: i-165F3DA4
+Mon Oct 26 11:02:54 BRT 2015
+tempo de falha gerado: 372188milisegundos.
+Mon Oct 26 11:09:37 BRT 2015
+falhou a VMi-165F3DA4
+Mon Oct 26 11:09:38 BRT 2015
+tempo de reparo gerado: 372188milisegundos.
+Mon Oct 26 11:16:22 BRT 2015
+Nova VM rodando, Id: i-3D1242B8
+Mon Oct 26 11:16:23 BRT 2015
+tempo de falha gerado: 419688milisegundos.
+Mon Oct 26 11:23:54 BRT 2015
+falhou a VMi-3D1242B8
+Mon Oct 26 11:23:55 BRT 2015
+tempo de reparo gerado: 419688milisegundos.
+Mon Oct 26 11:31:26 BRT 2015
+Nova VM rodando, Id: i-ECAF4181
+Mon Oct 26 11:31:27 BRT 2015
+tempo de falha gerado: 454906milisegundos.
+Mon Oct 26 11:39:34 BRT 2015
+falhou a VMi-ECAF4181
+Mon Oct 26 11:39:35 BRT 2015
+tempo de reparo gerado: 454906milisegundos.
+Mon Oct 26 11:47:41 BRT 2015
+Nova VM rodando, Id: i-B30C453C
+Mon Oct 26 11:47:42 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 11:50:13 BRT 2015
+falhou a VMi-B30C453C
+Mon Oct 26 11:50:15 BRT 2015
+tempo de reparo gerado: 111789milisegundos.
+Mon Oct 26 11:52:38 BRT 2015
+Nova VM rodando, Id: i-641D3E40
+Mon Oct 26 11:52:39 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 11:55:10 BRT 2015
+falhou a VMi-641D3E40
+Mon Oct 26 11:55:11 BRT 2015
+tempo de reparo gerado: 66882milisegundos.
+Mon Oct 26 11:56:50 BRT 2015
+Nova VM rodando, Id: i-21B443BF
+Mon Oct 26 11:56:51 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 11:59:22 BRT 2015
+falhou a VMi-21B443BF
+Mon Oct 26 11:59:23 BRT 2015
+tempo de reparo gerado: 118219milisegundos.
+Mon Oct 26 12:01:53 BRT 2015
+Nova VM rodando, Id: i-ADB53F58
+Mon Oct 26 12:01:54 BRT 2015
+tempo de falha gerado: 307468milisegundos.
+Mon Oct 26 12:07:33 BRT 2015
+falhou a VMi-ADB53F58
+Mon Oct 26 12:07:34 BRT 2015
+tempo de reparo gerado: 307468milisegundos.
+Mon Oct 26 12:13:13 BRT 2015
+Nova VM rodando, Id: i-96EB4533
+Mon Oct 26 12:13:14 BRT 2015
+tempo de falha gerado: 167035milisegundos.
+Mon Oct 26 12:16:32 BRT 2015
+falhou a VMi-96EB4533
+Mon Oct 26 12:16:33 BRT 2015
+tempo de reparo gerado: 167035milisegundos.
+Mon Oct 26 12:19:52 BRT 2015
+Nova VM rodando, Id: i-62C742EE
+Mon Oct 26 12:19:53 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 12:22:24 BRT 2015
+falhou a VMi-62C742EE
+Mon Oct 26 12:22:25 BRT 2015
+tempo de reparo gerado: 68541milisegundos.
+Mon Oct 26 12:24:05 BRT 2015
+Nova VM rodando, Id: i-CC693A7A
+Mon Oct 26 12:24:06 BRT 2015
+tempo de falha gerado: 326753milisegundos.
+Mon Oct 26 12:30:04 BRT 2015
+falhou a VMi-CC693A7A
+Mon Oct 26 12:30:06 BRT 2015
+tempo de reparo gerado: 326753milisegundos.
+Mon Oct 26 12:36:04 BRT 2015
+Nova VM rodando, Id: i-46314127
+Mon Oct 26 12:36:05 BRT 2015
+tempo de falha gerado: 348782milisegundos.
+Mon Oct 26 12:42:25 BRT 2015
+falhou a VMi-46314127
+Mon Oct 26 12:42:26 BRT 2015
+tempo de reparo gerado: 348782milisegundos.
+Mon Oct 26 12:48:46 BRT 2015
+Nova VM rodando, Id: i-FB8F3B5B
+Mon Oct 26 12:48:47 BRT 2015
+tempo de falha gerado: 434608milisegundos.
+Mon Oct 26 12:56:33 BRT 2015
+falhou a VMi-FB8F3B5B
+Mon Oct 26 12:56:34 BRT 2015
+tempo de reparo gerado: 434608milisegundos.
+Mon Oct 26 13:04:20 BRT 2015
+Nova VM rodando, Id: i-92253DC5
+Mon Oct 26 13:04:22 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 13:06:53 BRT 2015
+falhou a VMi-92253DC5
+Mon Oct 26 13:06:54 BRT 2015
+tempo de reparo gerado: 82973milisegundos.
+Mon Oct 26 13:08:48 BRT 2015
+Nova VM rodando, Id: i-12483FB9
+Mon Oct 26 13:08:50 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 13:11:21 BRT 2015
+falhou a VMi-12483FB9
+Mon Oct 26 13:11:22 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 13:12:53 BRT 2015
+Nova VM rodando, Id: i-AE7042F7
+Mon Oct 26 13:12:55 BRT 2015
+tempo de falha gerado: 389006milisegundos.
+Mon Oct 26 13:19:55 BRT 2015
+falhou a VMi-AE7042F7
+Mon Oct 26 13:19:56 BRT 2015
+tempo de reparo gerado: 389006milisegundos.
+Mon Oct 26 13:26:56 BRT 2015
+Nova VM rodando, Id: i-B9D13CEA
+Mon Oct 26 13:26:58 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 13:29:29 BRT 2015
+falhou a VMi-B9D13CEA
+Mon Oct 26 13:29:30 BRT 2015
+tempo de reparo gerado: 68420milisegundos.
+Mon Oct 26 13:31:10 BRT 2015
+Nova VM rodando, Id: i-729A412C
+Mon Oct 26 13:31:11 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 13:33:42 BRT 2015
+falhou a VMi-729A412C
+Mon Oct 26 13:33:43 BRT 2015
+tempo de reparo gerado: 74496milisegundos.
+Mon Oct 26 13:35:29 BRT 2015
+Nova VM rodando, Id: i-C4A940C2
+Mon Oct 26 13:35:30 BRT 2015
+tempo de falha gerado: 140507milisegundos.
+Mon Oct 26 13:38:22 BRT 2015
+falhou a VMi-C4A940C2
+Mon Oct 26 13:38:23 BRT 2015
+tempo de reparo gerado: 140507milisegundos.
+Mon Oct 26 13:41:15 BRT 2015
+Nova VM rodando, Id: i-27F542DF
+Mon Oct 26 13:41:16 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Mon Oct 26 13:51:48 BRT 2015
+falhou a VMi-27F542DF
+Mon Oct 26 13:51:49 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Mon Oct 26 14:02:20 BRT 2015
+Nova VM rodando, Id: i-C4EB3D21
+Mon Oct 26 14:02:21 BRT 2015
+tempo de falha gerado: 223782milisegundos.
+Mon Oct 26 14:06:36 BRT 2015
+falhou a VMi-C4EB3D21
+Mon Oct 26 14:06:38 BRT 2015
+tempo de reparo gerado: 223782milisegundos.
+Mon Oct 26 14:10:53 BRT 2015
+Nova VM rodando, Id: i-20503CD3
+Mon Oct 26 14:10:54 BRT 2015
+tempo de falha gerado: 216887milisegundos.
+Mon Oct 26 14:15:02 BRT 2015
+falhou a VMi-20503CD3
+Mon Oct 26 14:15:03 BRT 2015
+tempo de reparo gerado: 216887milisegundos.
+Mon Oct 26 14:19:11 BRT 2015
+Nova VM rodando, Id: i-2AE93E3D
+Mon Oct 26 14:19:13 BRT 2015
+tempo de falha gerado: 134012milisegundos.
+Mon Oct 26 14:21:58 BRT 2015
+falhou a VMi-2AE93E3D
+Mon Oct 26 14:21:59 BRT 2015
+tempo de reparo gerado: 134012milisegundos.
+Mon Oct 26 14:24:44 BRT 2015
+Nova VM rodando, Id: i-CF6241F9
+Mon Oct 26 14:24:46 BRT 2015
+tempo de falha gerado: 240020milisegundos.
+Mon Oct 26 14:29:17 BRT 2015
+falhou a VMi-CF6241F9
+Mon Oct 26 14:29:18 BRT 2015
+tempo de reparo gerado: 240020milisegundos.
+Mon Oct 26 14:33:49 BRT 2015
+Nova VM rodando, Id: i-52F2443D
+Mon Oct 26 14:33:51 BRT 2015
+tempo de falha gerado: 133544milisegundos.
+Mon Oct 26 14:36:35 BRT 2015
+falhou a VMi-52F2443D
+Mon Oct 26 14:36:37 BRT 2015
+tempo de reparo gerado: 133544milisegundos.
+Mon Oct 26 14:39:21 BRT 2015
+Nova VM rodando, Id: i-750047A2
+Mon Oct 26 14:39:23 BRT 2015
+tempo de falha gerado: 511281milisegundos.
+Mon Oct 26 14:48:25 BRT 2015
+falhou a VMi-750047A2
+Mon Oct 26 14:48:27 BRT 2015
+tempo de reparo gerado: 511281milisegundos.
+Mon Oct 26 14:57:29 BRT 2015
+Nova VM rodando, Id: i-12854071
+Mon Oct 26 14:57:30 BRT 2015
+tempo de falha gerado: 489696milisegundos.
+Mon Oct 26 15:06:11 BRT 2015
+falhou a VMi-12854071
+Mon Oct 26 15:06:12 BRT 2015
+tempo de reparo gerado: 489696milisegundos.
+Mon Oct 26 15:14:53 BRT 2015
+Nova VM rodando, Id: i-B7554157
+Mon Oct 26 15:14:55 BRT 2015
+tempo de falha gerado: 241121milisegundos.
+Mon Oct 26 15:19:27 BRT 2015
+falhou a VMi-B7554157
+Mon Oct 26 15:19:28 BRT 2015
+tempo de reparo gerado: 241121milisegundos.
+Mon Oct 26 15:24:01 BRT 2015
+Nova VM rodando, Id: i-8FDA446D
+Mon Oct 26 15:24:02 BRT 2015
+tempo de falha gerado: 433197milisegundos.
+Mon Oct 26 15:31:46 BRT 2015
+falhou a VMi-8FDA446D
+Mon Oct 26 15:31:48 BRT 2015
+tempo de reparo gerado: 433197milisegundos.
+Mon Oct 26 15:39:32 BRT 2015
+Nova VM rodando, Id: i-96504184
+Mon Oct 26 15:39:33 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 15:42:04 BRT 2015
+falhou a VMi-96504184
+Mon Oct 26 15:42:06 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 15:43:37 BRT 2015
+Nova VM rodando, Id: i-3A5B40FD
+Mon Oct 26 15:43:38 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 15:46:09 BRT 2015
+falhou a VMi-3A5B40FD
+Mon Oct 26 15:46:11 BRT 2015
+tempo de reparo gerado: 78021milisegundos.
+Mon Oct 26 15:48:00 BRT 2015
+Nova VM rodando, Id: i-4CF44389
+Mon Oct 26 15:48:01 BRT 2015
+tempo de falha gerado: 195301milisegundos.
+Mon Oct 26 15:51:48 BRT 2015
+falhou a VMi-4CF44389
+Mon Oct 26 15:51:49 BRT 2015
+tempo de reparo gerado: 195301milisegundos.
+Mon Oct 26 15:55:35 BRT 2015
+Nova VM rodando, Id: i-347A3B4E
+Mon Oct 26 15:55:37 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 15:58:08 BRT 2015
+falhou a VMi-347A3B4E
+Mon Oct 26 15:58:09 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 15:59:40 BRT 2015
+Nova VM rodando, Id: i-C2BA45A9
+Mon Oct 26 15:59:42 BRT 2015
+tempo de falha gerado: 439332milisegundos.
+Mon Oct 26 16:07:32 BRT 2015
+falhou a VMi-C2BA45A9
+Mon Oct 26 16:07:33 BRT 2015
+tempo de reparo gerado: 439332milisegundos.
+Mon Oct 26 16:15:24 BRT 2015
+Nova VM rodando, Id: i-E10B4240
+Mon Oct 26 16:15:25 BRT 2015
+tempo de falha gerado: 164111milisegundos.
+Mon Oct 26 16:18:40 BRT 2015
+falhou a VMi-E10B4240
+Mon Oct 26 16:18:42 BRT 2015
+tempo de reparo gerado: 164111milisegundos.
+Mon Oct 26 16:21:57 BRT 2015
+Nova VM rodando, Id: i-00194007
+Mon Oct 26 16:21:58 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 16:24:29 BRT 2015
+falhou a VMi-00194007
+Mon Oct 26 16:24:31 BRT 2015
+tempo de reparo gerado: 79043milisegundos.
+Mon Oct 26 16:26:21 BRT 2015
+Nova VM rodando, Id: i-1C78423E
+Mon Oct 26 16:26:22 BRT 2015
+tempo de falha gerado: 556746milisegundos.
+Mon Oct 26 16:36:10 BRT 2015
+falhou a VMi-1C78423E
+Mon Oct 26 16:36:11 BRT 2015
+tempo de reparo gerado: 556746milisegundos.
+Mon Oct 26 16:45:59 BRT 2015
+Nova VM rodando, Id: i-452B41B8
+Mon Oct 26 16:46:01 BRT 2015
+tempo de falha gerado: 486832milisegundos.
+Mon Oct 26 16:54:39 BRT 2015
+falhou a VMi-452B41B8
+Mon Oct 26 16:54:40 BRT 2015
+tempo de reparo gerado: 486832milisegundos.
+Mon Oct 26 17:03:18 BRT 2015
+Nova VM rodando, Id: i-31BA4145
+Mon Oct 26 17:03:19 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 17:05:51 BRT 2015
+falhou a VMi-31BA4145
+Mon Oct 26 17:05:52 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 17:07:23 BRT 2015
+Nova VM rodando, Id: i-05D7465A
+Mon Oct 26 17:07:24 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Mon Oct 26 17:17:56 BRT 2015
+falhou a VMi-05D7465A
+Mon Oct 26 17:17:57 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Mon Oct 26 17:28:28 BRT 2015
+Nova VM rodando, Id: i-96F74079
+Mon Oct 26 17:28:29 BRT 2015
+tempo de falha gerado: 153346milisegundos.
+Mon Oct 26 17:31:34 BRT 2015
+falhou a VMi-96F74079
+Mon Oct 26 17:31:35 BRT 2015
+tempo de reparo gerado: 153346milisegundos.
+Mon Oct 26 17:34:40 BRT 2015
+Nova VM rodando, Id: i-39B24178
+Mon Oct 26 17:34:41 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 17:37:12 BRT 2015
+falhou a VMi-39B24178
+Mon Oct 26 17:37:13 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 17:38:45 BRT 2015
+Nova VM rodando, Id: i-27F24563
+Mon Oct 26 17:38:46 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Mon Oct 26 17:49:17 BRT 2015
+falhou a VMi-27F24563
+Mon Oct 26 17:49:18 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Mon Oct 26 17:59:50 BRT 2015
+Nova VM rodando, Id: i-DDD64193
+Mon Oct 26 17:59:51 BRT 2015
+tempo de falha gerado: 157768milisegundos.
+Mon Oct 26 18:03:00 BRT 2015
+falhou a VMi-DDD64193
+Mon Oct 26 18:03:01 BRT 2015
+tempo de reparo gerado: 157768milisegundos.
+Mon Oct 26 18:06:10 BRT 2015
+Nova VM rodando, Id: i-9F1B40C9
+Mon Oct 26 18:06:11 BRT 2015
+tempo de falha gerado: 262096milisegundos.
+Mon Oct 26 18:11:05 BRT 2015
+falhou a VMi-9F1B40C9
+Mon Oct 26 18:11:06 BRT 2015
+tempo de reparo gerado: 262096milisegundos.
+Mon Oct 26 18:15:59 BRT 2015
+Nova VM rodando, Id: i-62024357
+Mon Oct 26 18:16:01 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Mon Oct 26 18:26:32 BRT 2015
+falhou a VMi-62024357
+Mon Oct 26 18:26:33 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Mon Oct 26 18:37:04 BRT 2015
+Nova VM rodando, Id: i-810B4762
+Mon Oct 26 18:37:05 BRT 2015
+tempo de falha gerado: 150426milisegundos.
+Mon Oct 26 18:40:07 BRT 2015
+falhou a VMi-810B4762
+Mon Oct 26 18:40:08 BRT 2015
+tempo de reparo gerado: 150426milisegundos.
+Mon Oct 26 18:43:10 BRT 2015
+Nova VM rodando, Id: i-97BF3B37
+Mon Oct 26 18:43:12 BRT 2015
+tempo de falha gerado: 126308milisegundos.
+Mon Oct 26 18:45:50 BRT 2015
+falhou a VMi-97BF3B37
+Mon Oct 26 18:45:51 BRT 2015
+tempo de reparo gerado: 126308milisegundos.
+Mon Oct 26 18:48:29 BRT 2015
+Nova VM rodando, Id: i-48B93FED
+Mon Oct 26 18:48:30 BRT 2015
+tempo de falha gerado: 457985milisegundos.
+Mon Oct 26 18:56:39 BRT 2015
+falhou a VMi-48B93FED
+Mon Oct 26 18:56:41 BRT 2015
+tempo de reparo gerado: 457985milisegundos.
+Mon Oct 26 19:04:50 BRT 2015
+Nova VM rodando, Id: i-80854408
+Mon Oct 26 19:04:51 BRT 2015
+tempo de falha gerado: 401787milisegundos.
+Mon Oct 26 19:12:04 BRT 2015
+falhou a VMi-80854408
+Mon Oct 26 19:12:05 BRT 2015
+tempo de reparo gerado: 401787milisegundos.
+Mon Oct 26 19:19:18 BRT 2015
+Nova VM rodando, Id: i-0EB0456A
+Mon Oct 26 19:19:20 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 19:21:51 BRT 2015
+falhou a VMi-0EB0456A
+Mon Oct 26 19:21:52 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 19:23:23 BRT 2015
+Nova VM rodando, Id: i-55E64231
+Mon Oct 26 19:23:25 BRT 2015
+tempo de falha gerado: 178958milisegundos.
+Mon Oct 26 19:26:55 BRT 2015
+falhou a VMi-55E64231
+Mon Oct 26 19:26:56 BRT 2015
+tempo de reparo gerado: 178958milisegundos.
+Mon Oct 26 19:30:26 BRT 2015
+Nova VM rodando, Id: i-F3BC44F3
+Mon Oct 26 19:30:27 BRT 2015
+tempo de falha gerado: 233959milisegundos.
+Mon Oct 26 19:34:53 BRT 2015
+falhou a VMi-F3BC44F3
+Mon Oct 26 19:34:54 BRT 2015
+tempo de reparo gerado: 233959milisegundos.
+Mon Oct 26 19:39:19 BRT 2015
+Nova VM rodando, Id: i-364344D3
+Mon Oct 26 19:39:20 BRT 2015
+tempo de falha gerado: 204457milisegundos.
+Mon Oct 26 19:43:16 BRT 2015
+falhou a VMi-364344D3
+Mon Oct 26 19:43:17 BRT 2015
+tempo de reparo gerado: 204457milisegundos.
+Mon Oct 26 19:47:13 BRT 2015
+Nova VM rodando, Id: i-1D524204
+Mon Oct 26 19:47:14 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Mon Oct 26 19:57:46 BRT 2015
+falhou a VMi-1D524204
+Mon Oct 26 19:57:47 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Mon Oct 26 20:08:18 BRT 2015
+Nova VM rodando, Id: i-9E2C454C
+Mon Oct 26 20:08:19 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Mon Oct 26 20:18:51 BRT 2015
+falhou a VMi-9E2C454C
+Mon Oct 26 20:18:52 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Mon Oct 26 20:29:23 BRT 2015
+Nova VM rodando, Id: i-79CE43E8
+Mon Oct 26 20:29:24 BRT 2015
+tempo de falha gerado: 405106milisegundos.
+Mon Oct 26 20:36:41 BRT 2015
+falhou a VMi-79CE43E8
+Mon Oct 26 20:36:42 BRT 2015
+tempo de reparo gerado: 405106milisegundos.
+Mon Oct 26 20:43:58 BRT 2015
+Nova VM rodando, Id: i-B20D4044
+Mon Oct 26 20:43:59 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 20:46:31 BRT 2015
+falhou a VMi-B20D4044
+Mon Oct 26 20:46:32 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 20:48:03 BRT 2015
+Nova VM rodando, Id: i-6E923BFE
+Mon Oct 26 20:48:04 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 20:50:36 BRT 2015
+falhou a VMi-6E923BFE
+Mon Oct 26 20:50:37 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 20:52:08 BRT 2015
+Nova VM rodando, Id: i-859E4103
+Mon Oct 26 20:52:09 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 20:54:40 BRT 2015
+falhou a VMi-859E4103
+Mon Oct 26 20:54:42 BRT 2015
+tempo de reparo gerado: 85730milisegundos.
+Mon Oct 26 20:56:39 BRT 2015
+Nova VM rodando, Id: i-DC5F40E7
+Mon Oct 26 20:56:40 BRT 2015
+tempo de falha gerado: 556951milisegundos.
+Mon Oct 26 21:06:28 BRT 2015
+falhou a VMi-DC5F40E7
+Mon Oct 26 21:06:29 BRT 2015
+tempo de reparo gerado: 556951milisegundos.
+Mon Oct 26 21:16:17 BRT 2015
+Nova VM rodando, Id: i-D5533E30
+Mon Oct 26 21:16:19 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 21:18:50 BRT 2015
+falhou a VMi-D5533E30
+Mon Oct 26 21:18:51 BRT 2015
+tempo de reparo gerado: 62503milisegundos.
+Mon Oct 26 21:20:25 BRT 2015
+Nova VM rodando, Id: i-A7054683
+Mon Oct 26 21:20:26 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 21:22:57 BRT 2015
+falhou a VMi-A7054683
+Mon Oct 26 21:22:59 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 21:24:30 BRT 2015
+Nova VM rodando, Id: i-1C644788
+Mon Oct 26 21:24:31 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 21:27:02 BRT 2015
+falhou a VMi-1C644788
+Mon Oct 26 21:27:04 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 21:28:35 BRT 2015
+Nova VM rodando, Id: i-F45E3ED5
+Mon Oct 26 21:28:36 BRT 2015
+tempo de falha gerado: 341503milisegundos.
+Mon Oct 26 21:34:49 BRT 2015
+falhou a VMi-F45E3ED5
+Mon Oct 26 21:34:50 BRT 2015
+tempo de reparo gerado: 341503milisegundos.
+Mon Oct 26 21:41:03 BRT 2015
+Nova VM rodando, Id: i-6BC442C4
+Mon Oct 26 21:41:04 BRT 2015
+tempo de falha gerado: 134797milisegundos.
+Mon Oct 26 21:43:50 BRT 2015
+falhou a VMi-6BC442C4
+Mon Oct 26 21:43:51 BRT 2015
+tempo de reparo gerado: 134797milisegundos.
+Mon Oct 26 21:46:37 BRT 2015
+Nova VM rodando, Id: i-B9E13ED3
+Mon Oct 26 21:46:39 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 21:49:10 BRT 2015
+falhou a VMi-B9E13ED3
+Mon Oct 26 21:49:11 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 21:50:42 BRT 2015
+Nova VM rodando, Id: i-B56E42EC
+Mon Oct 26 21:50:44 BRT 2015
+tempo de falha gerado: 226320milisegundos.
+Mon Oct 26 21:55:01 BRT 2015
+falhou a VMi-B56E42EC
+Mon Oct 26 21:55:02 BRT 2015
+tempo de reparo gerado: 226320milisegundos.
+Mon Oct 26 21:59:20 BRT 2015
+Nova VM rodando, Id: i-23943BAD
+Mon Oct 26 21:59:21 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 22:01:53 BRT 2015
+falhou a VMi-23943BAD
+Mon Oct 26 22:01:54 BRT 2015
+tempo de reparo gerado: 98232milisegundos.
+Mon Oct 26 22:04:03 BRT 2015
+Nova VM rodando, Id: i-26FA4034
+Mon Oct 26 22:04:04 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 22:06:36 BRT 2015
+falhou a VMi-26FA4034
+Mon Oct 26 22:06:37 BRT 2015
+tempo de reparo gerado: 84543milisegundos.
+Mon Oct 26 22:08:33 BRT 2015
+Nova VM rodando, Id: i-A1563F64
+Mon Oct 26 22:08:34 BRT 2015
+tempo de falha gerado: 232705milisegundos.
+Mon Oct 26 22:12:58 BRT 2015
+falhou a VMi-A1563F64
+Mon Oct 26 22:12:59 BRT 2015
+tempo de reparo gerado: 232705milisegundos.
+Mon Oct 26 22:17:23 BRT 2015
+Nova VM rodando, Id: i-449542A8
+Mon Oct 26 22:17:24 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 22:19:55 BRT 2015
+falhou a VMi-449542A8
+Mon Oct 26 22:19:57 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 22:21:28 BRT 2015
+Nova VM rodando, Id: i-AE863FD1
+Mon Oct 26 22:21:29 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 22:24:00 BRT 2015
+falhou a VMi-AE863FD1
+Mon Oct 26 22:24:02 BRT 2015
+tempo de reparo gerado: 109411milisegundos.
+Mon Oct 26 22:26:22 BRT 2015
+Nova VM rodando, Id: i-21D143DC
+Mon Oct 26 22:26:23 BRT 2015
+tempo de falha gerado: 135577milisegundos.
+Mon Oct 26 22:29:10 BRT 2015
+falhou a VMi-21D143DC
+Mon Oct 26 22:29:12 BRT 2015
+tempo de reparo gerado: 135577milisegundos.
+Mon Oct 26 22:31:58 BRT 2015
+Nova VM rodando, Id: i-A1294077
+Mon Oct 26 22:32:00 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 22:34:31 BRT 2015
+falhou a VMi-A1294077
+Mon Oct 26 22:34:32 BRT 2015
+tempo de reparo gerado: 106027milisegundos.
+Mon Oct 26 22:36:49 BRT 2015
+Nova VM rodando, Id: i-2901433F
+Mon Oct 26 22:36:51 BRT 2015
+tempo de falha gerado: 387453milisegundos.
+Mon Oct 26 22:43:49 BRT 2015
+falhou a VMi-2901433F
+Mon Oct 26 22:43:51 BRT 2015
+tempo de reparo gerado: 387453milisegundos.
+Mon Oct 26 22:50:49 BRT 2015
+Nova VM rodando, Id: i-B1F942D4
+Mon Oct 26 22:50:51 BRT 2015
+tempo de falha gerado: 358527milisegundos.
+Mon Oct 26 22:57:20 BRT 2015
+falhou a VMi-B1F942D4
+Mon Oct 26 22:57:22 BRT 2015
+tempo de reparo gerado: 358527milisegundos.
+Mon Oct 26 23:03:51 BRT 2015
+Nova VM rodando, Id: i-553A40D0
+Mon Oct 26 23:03:53 BRT 2015
+tempo de falha gerado: 148083milisegundos.
+Mon Oct 26 23:06:52 BRT 2015
+falhou a VMi-553A40D0
+Mon Oct 26 23:06:53 BRT 2015
+tempo de reparo gerado: 148083milisegundos.
+Mon Oct 26 23:09:53 BRT 2015
+Nova VM rodando, Id: i-42CF4362
+Mon Oct 26 23:09:54 BRT 2015
+tempo de falha gerado: 204370milisegundos.
+Mon Oct 26 23:13:49 BRT 2015
+falhou a VMi-42CF4362
+Mon Oct 26 23:13:51 BRT 2015
+tempo de reparo gerado: 204370milisegundos.
+Mon Oct 26 23:17:46 BRT 2015
+Nova VM rodando, Id: i-95CA4312
+Mon Oct 26 23:17:48 BRT 2015
+tempo de falha gerado: 154119milisegundos.
+Mon Oct 26 23:20:53 BRT 2015
+falhou a VMi-95CA4312
+Mon Oct 26 23:20:54 BRT 2015
+tempo de reparo gerado: 154119milisegundos.
+Mon Oct 26 23:24:00 BRT 2015
+Nova VM rodando, Id: i-A2DA4411
+Mon Oct 26 23:24:01 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 23:26:32 BRT 2015
+falhou a VMi-A2DA4411
+Mon Oct 26 23:26:33 BRT 2015
+tempo de reparo gerado: 83648milisegundos.
+Mon Oct 26 23:28:28 BRT 2015
+Nova VM rodando, Id: i-DF764035
+Mon Oct 26 23:28:29 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 23:31:00 BRT 2015
+falhou a VMi-DF764035
+Mon Oct 26 23:31:02 BRT 2015
+tempo de reparo gerado: 105492milisegundos.
+Mon Oct 26 23:33:18 BRT 2015
+Nova VM rodando, Id: i-73FC42E4
+Mon Oct 26 23:33:20 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Mon Oct 26 23:35:51 BRT 2015
+falhou a VMi-73FC42E4
+Mon Oct 26 23:35:52 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Mon Oct 26 23:37:23 BRT 2015
+Nova VM rodando, Id: i-21504657
+Mon Oct 26 23:37:25 BRT 2015
+tempo de falha gerado: 235707milisegundos.
+Mon Oct 26 23:41:52 BRT 2015
+falhou a VMi-21504657
+Mon Oct 26 23:41:53 BRT 2015
+tempo de reparo gerado: 235707milisegundos.
+Mon Oct 26 23:46:20 BRT 2015
+Nova VM rodando, Id: i-FD3C40A7
+Mon Oct 26 23:46:21 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Mon Oct 26 23:56:52 BRT 2015
+falhou a VMi-FD3C40A7
+Mon Oct 26 23:56:54 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Tue Oct 27 00:07:25 BRT 2015
+Nova VM rodando, Id: i-F94C456F
+Tue Oct 27 00:07:26 BRT 2015
+tempo de falha gerado: 371924milisegundos.
+Tue Oct 27 00:14:09 BRT 2015
+falhou a VMi-F94C456F
+Tue Oct 27 00:14:10 BRT 2015
+tempo de reparo gerado: 371924milisegundos.
+Tue Oct 27 00:20:53 BRT 2015
+Nova VM rodando, Id: i-09EC4392
+Tue Oct 27 00:20:55 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 00:23:26 BRT 2015
+falhou a VMi-09EC4392
+Tue Oct 27 00:23:27 BRT 2015
+tempo de reparo gerado: 90949milisegundos.
+Tue Oct 27 00:25:29 BRT 2015
+Nova VM rodando, Id: i-2BE44228
+Tue Oct 27 00:25:31 BRT 2015
+tempo de falha gerado: 274174milisegundos.
+Tue Oct 27 00:30:36 BRT 2015
+falhou a VMi-2BE44228
+Tue Oct 27 00:30:37 BRT 2015
+tempo de reparo gerado: 274174milisegundos.
+Tue Oct 27 00:35:43 BRT 2015
+Nova VM rodando, Id: i-F93941C4
+Tue Oct 27 00:35:44 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 00:38:15 BRT 2015
+falhou a VMi-F93941C4
+Tue Oct 27 00:38:16 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 00:39:48 BRT 2015
+Nova VM rodando, Id: i-3BDF3FCA
+Tue Oct 27 00:39:49 BRT 2015
+tempo de falha gerado: 358642milisegundos.
+Tue Oct 27 00:46:19 BRT 2015
+falhou a VMi-3BDF3FCA
+Tue Oct 27 00:46:20 BRT 2015
+tempo de reparo gerado: 358642milisegundos.
+Tue Oct 27 00:52:50 BRT 2015
+Nova VM rodando, Id: i-820842D5
+Tue Oct 27 00:52:51 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 00:55:23 BRT 2015
+falhou a VMi-820842D5
+Tue Oct 27 00:55:24 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 00:56:55 BRT 2015
+Nova VM rodando, Id: i-3D2344EA
+Tue Oct 27 00:56:56 BRT 2015
+tempo de falha gerado: 255069milisegundos.
+Tue Oct 27 01:01:43 BRT 2015
+falhou a VMi-3D2344EA
+Tue Oct 27 01:01:44 BRT 2015
+tempo de reparo gerado: 255069milisegundos.
+Tue Oct 27 01:06:30 BRT 2015
+Nova VM rodando, Id: i-5BE542CC
+Tue Oct 27 01:06:31 BRT 2015
+tempo de falha gerado: 541905milisegundos.
+Tue Oct 27 01:16:05 BRT 2015
+falhou a VMi-5BE542CC
+Tue Oct 27 01:16:06 BRT 2015
+tempo de reparo gerado: 541905milisegundos.
+Tue Oct 27 01:25:39 BRT 2015
+Nova VM rodando, Id: i-3A3846FD
+Tue Oct 27 01:25:43 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 01:28:14 BRT 2015
+falhou a VMi-3A3846FD
+Tue Oct 27 01:28:15 BRT 2015
+tempo de reparo gerado: 115154milisegundos.
+Tue Oct 27 01:30:42 BRT 2015
+Nova VM rodando, Id: i-DE2C41F0
+Tue Oct 27 01:30:43 BRT 2015
+tempo de falha gerado: 277418milisegundos.
+Tue Oct 27 01:35:52 BRT 2015
+falhou a VMi-DE2C41F0
+Tue Oct 27 01:35:53 BRT 2015
+tempo de reparo gerado: 277418milisegundos.
+Tue Oct 27 01:41:01 BRT 2015
+Nova VM rodando, Id: i-F8F93FCA
+Tue Oct 27 01:41:03 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 01:43:34 BRT 2015
+falhou a VMi-F8F93FCA
+Tue Oct 27 01:43:35 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 01:45:06 BRT 2015
+Nova VM rodando, Id: i-5CAF430B
+Tue Oct 27 01:45:08 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 01:47:39 BRT 2015
+falhou a VMi-5CAF430B
+Tue Oct 27 01:47:40 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 01:49:11 BRT 2015
+Nova VM rodando, Id: i-0AE240A3
+Tue Oct 27 01:49:13 BRT 2015
+tempo de falha gerado: 350976milisegundos.
+Tue Oct 27 01:55:35 BRT 2015
+falhou a VMi-0AE240A3
+Tue Oct 27 01:55:36 BRT 2015
+tempo de reparo gerado: 350976milisegundos.
+Tue Oct 27 02:01:58 BRT 2015
+Nova VM rodando, Id: i-A12541CA
+Tue Oct 27 02:01:59 BRT 2015
+tempo de falha gerado: 395321milisegundos.
+Tue Oct 27 02:09:06 BRT 2015
+falhou a VMi-A12541CA
+Tue Oct 27 02:09:07 BRT 2015
+tempo de reparo gerado: 395321milisegundos.
+Tue Oct 27 02:16:14 BRT 2015
+Nova VM rodando, Id: i-D35C44C4
+Tue Oct 27 02:16:15 BRT 2015
+tempo de falha gerado: 209448milisegundos.
+Tue Oct 27 02:20:16 BRT 2015
+falhou a VMi-D35C44C4
+Tue Oct 27 02:20:17 BRT 2015
+tempo de reparo gerado: 209448milisegundos.
+Tue Oct 27 02:24:18 BRT 2015
+Nova VM rodando, Id: i-168343E4
+Tue Oct 27 02:24:19 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Tue Oct 27 02:34:50 BRT 2015
+falhou a VMi-168343E4
+Tue Oct 27 02:34:52 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Tue Oct 27 02:45:23 BRT 2015
+Nova VM rodando, Id: i-0A184438
+Tue Oct 27 02:45:24 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Tue Oct 27 02:55:55 BRT 2015
+falhou a VMi-0A184438
+Tue Oct 27 02:55:56 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Tue Oct 27 03:06:28 BRT 2015
+Nova VM rodando, Id: i-7DDD3FB2
+Tue Oct 27 03:06:29 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 03:09:00 BRT 2015
+falhou a VMi-7DDD3FB2
+Tue Oct 27 03:09:01 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 03:10:33 BRT 2015
+Nova VM rodando, Id: i-353F42B6
+Tue Oct 27 03:10:34 BRT 2015
+tempo de falha gerado: 291276milisegundos.
+Tue Oct 27 03:15:56 BRT 2015
+falhou a VMi-353F42B6
+Tue Oct 27 03:15:57 BRT 2015
+tempo de reparo gerado: 291276milisegundos.
+Tue Oct 27 03:21:20 BRT 2015
+Nova VM rodando, Id: i-208441DD
+Tue Oct 27 03:21:21 BRT 2015
+tempo de falha gerado: 239795milisegundos.
+Tue Oct 27 03:25:52 BRT 2015
+falhou a VMi-208441DD
+Tue Oct 27 03:25:54 BRT 2015
+tempo de reparo gerado: 239795milisegundos.
+Tue Oct 27 03:30:25 BRT 2015
+Nova VM rodando, Id: i-5A2641C8
+Tue Oct 27 03:30:26 BRT 2015
+tempo de falha gerado: 172788milisegundos.
+Tue Oct 27 03:33:50 BRT 2015
+falhou a VMi-5A2641C8
+Tue Oct 27 03:33:51 BRT 2015
+tempo de reparo gerado: 172788milisegundos.
+Tue Oct 27 03:37:15 BRT 2015
+Nova VM rodando, Id: i-6B74402D
+Tue Oct 27 03:37:16 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 03:39:48 BRT 2015
+falhou a VMi-6B74402D
+Tue Oct 27 03:39:49 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 03:41:20 BRT 2015
+Nova VM rodando, Id: i-F3CF40A5
+Tue Oct 27 03:41:22 BRT 2015
+tempo de falha gerado: 547463milisegundos.
+Tue Oct 27 03:51:00 BRT 2015
+falhou a VMi-F3CF40A5
+Tue Oct 27 03:51:01 BRT 2015
+tempo de reparo gerado: 547463milisegundos.
+Tue Oct 27 04:00:40 BRT 2015
+Nova VM rodando, Id: i-70D043C4
+Tue Oct 27 04:00:41 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 04:03:13 BRT 2015
+falhou a VMi-70D043C4
+Tue Oct 27 04:03:14 BRT 2015
+tempo de reparo gerado: 79681milisegundos.
+Tue Oct 27 04:05:05 BRT 2015
+Nova VM rodando, Id: i-76564133
+Tue Oct 27 04:05:06 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Tue Oct 27 04:15:37 BRT 2015
+falhou a VMi-76564133
+Tue Oct 27 04:15:39 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Tue Oct 27 04:26:10 BRT 2015
+Nova VM rodando, Id: i-17384555
+Tue Oct 27 04:26:11 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 04:28:42 BRT 2015
+falhou a VMi-17384555
+Tue Oct 27 04:28:44 BRT 2015
+tempo de reparo gerado: 62323milisegundos.
+Tue Oct 27 04:30:17 BRT 2015
+Nova VM rodando, Id: i-53293C67
+Tue Oct 27 04:30:18 BRT 2015
+tempo de falha gerado: 143875milisegundos.
+Tue Oct 27 04:33:14 BRT 2015
+falhou a VMi-53293C67
+Tue Oct 27 04:33:15 BRT 2015
+tempo de reparo gerado: 143875milisegundos.
+Tue Oct 27 04:36:10 BRT 2015
+Nova VM rodando, Id: i-39224146
+Tue Oct 27 04:36:11 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 04:38:42 BRT 2015
+falhou a VMi-39224146
+Tue Oct 27 04:38:44 BRT 2015
+tempo de reparo gerado: 99811milisegundos.
+Tue Oct 27 04:40:55 BRT 2015
+Nova VM rodando, Id: i-C2A04362
+Tue Oct 27 04:40:56 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 04:43:27 BRT 2015
+falhou a VMi-C2A04362
+Tue Oct 27 04:43:28 BRT 2015
+tempo de reparo gerado: 89001milisegundos.
+Tue Oct 27 04:45:29 BRT 2015
+Nova VM rodando, Id: i-29124572
+Tue Oct 27 04:45:30 BRT 2015
+tempo de falha gerado: 159807milisegundos.
+Tue Oct 27 04:48:41 BRT 2015
+falhou a VMi-29124572
+Tue Oct 27 04:48:42 BRT 2015
+tempo de reparo gerado: 159807milisegundos.
+Tue Oct 27 04:51:53 BRT 2015
+Nova VM rodando, Id: i-2A99471E
+Tue Oct 27 04:51:54 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 04:54:26 BRT 2015
+falhou a VMi-2A99471E
+Tue Oct 27 04:54:27 BRT 2015
+tempo de reparo gerado: 60354milisegundos.
+Tue Oct 27 04:55:58 BRT 2015
+Nova VM rodando, Id: i-BAE83FDC
+Tue Oct 27 04:56:00 BRT 2015
+tempo de falha gerado: 259498milisegundos.
+Tue Oct 27 05:00:50 BRT 2015
+falhou a VMi-BAE83FDC
+Tue Oct 27 05:00:52 BRT 2015
+tempo de reparo gerado: 259498milisegundos.
+Tue Oct 27 05:05:42 BRT 2015
+Nova VM rodando, Id: i-9A9F45B2
+Tue Oct 27 05:05:44 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Tue Oct 27 05:16:15 BRT 2015
+falhou a VMi-9A9F45B2
+Tue Oct 27 05:16:16 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Tue Oct 27 05:26:48 BRT 2015
+Nova VM rodando, Id: i-300D4424
+Tue Oct 27 05:26:49 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Tue Oct 27 05:37:20 BRT 2015
+falhou a VMi-300D4424
+Tue Oct 27 05:37:21 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Tue Oct 27 05:47:53 BRT 2015
+Nova VM rodando, Id: i-A0EC4128
+Tue Oct 27 05:47:54 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 05:50:25 BRT 2015
+falhou a VMi-A0EC4128
+Tue Oct 27 05:50:26 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 05:51:57 BRT 2015
+Nova VM rodando, Id: i-949B40EC
+Tue Oct 27 05:51:59 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Tue Oct 27 06:02:30 BRT 2015
+falhou a VMi-949B40EC
+Tue Oct 27 06:02:31 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Tue Oct 27 06:13:02 BRT 2015
+Nova VM rodando, Id: i-80C142B0
+Tue Oct 27 06:13:04 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 06:15:35 BRT 2015
+falhou a VMi-80C142B0
+Tue Oct 27 06:15:36 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 06:17:07 BRT 2015
+Nova VM rodando, Id: i-D8E93E8C
+Tue Oct 27 06:17:08 BRT 2015
+tempo de falha gerado: 538443milisegundos.
+Tue Oct 27 06:26:38 BRT 2015
+falhou a VMi-D8E93E8C
+Tue Oct 27 06:26:39 BRT 2015
+tempo de reparo gerado: 538443milisegundos.
+Tue Oct 27 06:36:09 BRT 2015
+Nova VM rodando, Id: i-C59B4228
+Tue Oct 27 06:36:10 BRT 2015
+tempo de falha gerado: 171097milisegundos.
+Tue Oct 27 06:39:32 BRT 2015
+falhou a VMi-C59B4228
+Tue Oct 27 06:39:34 BRT 2015
+tempo de reparo gerado: 171097milisegundos.
+Tue Oct 27 06:42:56 BRT 2015
+Nova VM rodando, Id: i-57263FBB
+Tue Oct 27 06:42:57 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 06:45:28 BRT 2015
+falhou a VMi-57263FBB
+Tue Oct 27 06:45:30 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 06:47:01 BRT 2015
+Nova VM rodando, Id: i-4642441C
+Tue Oct 27 06:47:02 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 06:49:33 BRT 2015
+falhou a VMi-4642441C
+Tue Oct 27 06:49:35 BRT 2015
+tempo de reparo gerado: 112582milisegundos.
+Tue Oct 27 06:51:58 BRT 2015
+Nova VM rodando, Id: i-B9064340
+Tue Oct 27 06:52:00 BRT 2015
+tempo de falha gerado: 594820milisegundos.
+Tue Oct 27 07:02:26 BRT 2015
+falhou a VMi-B9064340
+Tue Oct 27 07:02:27 BRT 2015
+tempo de reparo gerado: 594820milisegundos.
+Tue Oct 27 07:12:53 BRT 2015
+Nova VM rodando, Id: i-F0E14420
+Tue Oct 27 07:12:54 BRT 2015
+tempo de falha gerado: 120000milisegundos.
+Tue Oct 27 07:15:25 BRT 2015
+falhou a VMi-F0E14420
+Tue Oct 27 07:15:27 BRT 2015
+tempo de reparo gerado: 60000milisegundos.
+Tue Oct 27 07:16:58 BRT 2015
+Nova VM rodando, Id: i-3AE54077
+Tue Oct 27 07:16:59 BRT 2015
+tempo de falha gerado: 163720milisegundos.
+Tue Oct 27 07:20:14 BRT 2015
+falhou a VMi-3AE54077
+Tue Oct 27 07:20:15 BRT 2015
+tempo de reparo gerado: 163720milisegundos.
+Tue Oct 27 07:23:30 BRT 2015
+Nova VM rodando, Id: i-0F0E4059
+Tue Oct 27 07:23:31 BRT 2015
+tempo de falha gerado: 588345milisegundos.
+Tue Oct 27 07:33:51 BRT 2015
+falhou a VMi-0F0E4059
+Tue Oct 27 07:33:52 BRT 2015
+tempo de reparo gerado: 588345milisegundos.
+Tue Oct 27 07:44:12 BRT 2015
+Nova VM rodando, Id: i-5121426B
+Tue Oct 27 07:44:13 BRT 2015
+tempo de falha gerado: 600000milisegundos.
+Tue Oct 27 07:54:45 BRT 2015
+falhou a VMi-5121426B
+Tue Oct 27 07:54:46 BRT 2015
+tempo de reparo gerado: 600000milisegundos.
+Tue Oct 27 08:05:17 BRT 2015
+Nova VM rodando, Id: i-1B83433E
+Tue Oct 27 08:05:18 BRT 2015
+tempo de falha gerado: 223109milisegundos.
+Tue Oct 27 08:09:33 BRT 2015
+falhou a VMi-1B83433E
+Tue Oct 27 08:09:34 BRT 2015
+tempo de reparo gerado: 223109milisegundos.
+Tue Oct 27 08:13:48 BRT 2015
+Nova VM rodando, Id: i-D65540AE
+Tue Oct 27 08:13:50 BRT 2015
+tempo de falha gerado: 315038milisegundos.
+Tue Oct 27 08:19:36 BRT 2015
+falhou a VMi-D65540AE
+Tue Oct 27 08:19:37 BRT 2015
+tempo de reparo gerado: 315038milisegundos.
+Tue Oct 27 08:25:23 BRT 2015
+Nova VM rodando, Id: i-2CFC46BB
+Tue Oct 27 08:25:25 BRT 2015
+tempo de falha gerado: 348603milisegundos.
+Tue Oct 27 08:31:44 BRT 2015
+falhou a VMi-2CFC46BB
+Tue Oct 27 08:31:46 BRT 2015
+tempo de reparo gerado: 348603milisegundos.
+Tue Oct 27 08:38:06 BRT 2015
+Nova VM rodando, Id: i-7D39417F
+Tue Oct 27 08:38:07 BRT 2015
+tempo de falha gerado: 344203milisegundos.
+Tue Oct 27 08:44:22 BRT 2015
+falhou a VMi-7D39417F
+Tue Oct 27 08:44:24 BRT 2015
+tempo de reparo gerado: 344203milisegundos.

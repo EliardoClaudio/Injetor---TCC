@@ -1,0 +1,2345 @@
+<org.modcs.tools.spn.model.EDSPN>
+  <numberPlaces>18</numberPlaces>
+  <numberTransitions>22</numberTransitions>
+  <numberDelayParameters>0</numberDelayParameters>
+  <numberMarkingParameters>0</numberMarkingParameters>
+  <numberRewardMeasures>0</numberRewardMeasures>
+  <numberLabelModels>0</numberLabelModels>
+  <numberDefinitions>0</numberDefinitions>
+  <places>
+    <org.modcs.tools.spn.model.Place>
+      <name>frontOn</name>
+      <marking>1</marking>
+      <stringMarking>1</stringMarking>
+      <positionPlace class="java.awt.geom.Point2D$Double">
+        <x>0.52</x>
+        <y>0.76</y>
+      </positionPlace>
+      <positionTag class="java.awt.Point">
+        <x>103</x>
+        <y>97</y>
+      </positionTag>
+      <edspn>
+        <numberPlaces>18</numberPlaces>
+        <numberTransitions>22</numberTransitions>
+        <numberDelayParameters>0</numberDelayParameters>
+        <numberMarkingParameters>0</numberMarkingParameters>
+        <numberRewardMeasures>0</numberRewardMeasures>
+        <numberLabelModels>0</numberLabelModels>
+        <numberDefinitions>0</numberDefinitions>
+        <places>
+          <org.modcs.tools.spn.model.Place reference="../../.."/>
+          <org.modcs.tools.spn.model.Place>
+            <name>frontOff</name>
+            <marking>0</marking>
+            <stringMarking>0</stringMarking>
+            <positionPlace class="java.awt.geom.Point2D$Double">
+              <x>0.6</x>
+              <y>1.64</y>
+            </positionPlace>
+            <positionTag class="java.awt.Point">
+              <x>100</x>
+              <y>209</y>
+            </positionTag>
+            <edspn reference="../../.."/>
+            <initialStringMarking>0</initialStringMarking>
+          </org.modcs.tools.spn.model.Place>
+          <org.modcs.tools.spn.model.Place>
+            <name>vmOn</name>
+            <marking>2</marking>
+            <stringMarking>2</stringMarking>
+            <positionPlace class="java.awt.geom.Point2D$Double">
+              <x>1.84</x>
+              <y>0.52</y>
+            </positionPlace>
+            <positionTag class="java.awt.Point">
+              <x>277</x>
+              <y>78</y>
+            </positionTag>
+            <edspn>
+              <numberPlaces>18</numberPlaces>
+              <numberTransitions>22</numberTransitions>
+              <numberDelayParameters>0</numberDelayParameters>
+              <numberMarkingParameters>0</numberMarkingParameters>
+              <numberRewardMeasures>0</numberRewardMeasures>
+              <numberLabelModels>0</numberLabelModels>
+              <numberDefinitions>0</numberDefinitions>
+              <places>
+                <org.modcs.tools.spn.model.Place reference="../../../../../.."/>
+                <org.modcs.tools.spn.model.Place reference="../../../../org.modcs.tools.spn.model.Place[2]"/>
+                <org.modcs.tools.spn.model.Place reference="../../.."/>
+                <org.modcs.tools.spn.model.Place>
+                  <name>vmOff</name>
+                  <marking>0</marking>
+                  <stringMarking>0</stringMarking>
+                  <positionPlace class="java.awt.geom.Point2D$Double">
+                    <x>1.88</x>
+                    <y>1.28</y>
+                  </positionPlace>
+                  <positionTag class="java.awt.Point">
+                    <x>280</x>
+                    <y>194</y>
+                  </positionTag>
+                  <edspn reference="../../../../../.."/>
+                  <initialStringMarking>0</initialStringMarking>
+                </org.modcs.tools.spn.model.Place>
+                <org.modcs.tools.spn.model.Place>
+                  <name>nodeOn</name>
+                  <marking>1</marking>
+                  <stringMarking>1</stringMarking>
+                  <positionPlace class="java.awt.geom.Point2D$Double">
+                    <x>1.88</x>
+                    <y>2.0</y>
+                  </positionPlace>
+                  <positionTag class="java.awt.Point">
+                    <x>282</x>
+                    <y>300</y>
+                  </positionTag>
+                  <edspn reference="../../../../../.."/>
+                  <initialStringMarking>1</initialStringMarking>
+                </org.modcs.tools.spn.model.Place>
+                <org.modcs.tools.spn.model.Place>
+                  <name>nodeOff</name>
+                  <marking>0</marking>
+                  <stringMarking>0</stringMarking>
+                  <positionPlace class="java.awt.geom.Point2D$Double">
+                    <x>1.92</x>
+                    <y>2.76</y>
+                  </positionPlace>
+                  <positionTag class="java.awt.Point">
+                    <x>286</x>
+                    <y>401</y>
+                  </positionTag>
+                  <edspn reference="../../../../../.."/>
+                  <initialStringMarking>0</initialStringMarking>
+                </org.modcs.tools.spn.model.Place>
+                <org.modcs.tools.spn.model.Place>
+                  <name>vm2On</name>
+                  <marking>2</marking>
+                  <stringMarking>2</stringMarking>
+                  <positionPlace class="java.awt.geom.Point2D$Double">
+                    <x>3.16</x>
+                    <y>0.52</y>
+                  </positionPlace>
+                  <positionTag class="java.awt.Point">
+                    <x>472</x>
+                    <y>75</y>
+                  </positionTag>
+                  <edspn reference="../../.."/>
+                  <initialStringMarking>2</initialStringMarking>
+                </org.modcs.tools.spn.model.Place>
+                <org.modcs.tools.spn.model.Place>
+                  <name>vm2Off</name>
+                  <marking>0</marking>
+                  <stringMarking>0</stringMarking>
+                  <positionPlace class="java.awt.geom.Point2D$Double">
+                    <x>3.2</x>
+                    <y>1.28</y>
+                  </positionPlace>
+                  <positionTag class="java.awt.Point">
+                    <x>479</x>
+                    <y>186</y>
+                  </positionTag>
+                  <edspn reference="../../../../../.."/>
+                  <initialStringMarking>0</initialStringMarking>
+                </org.modcs.tools.spn.model.Place>
+                <org.modcs.tools.spn.model.Place>
+                  <name>node2On</name>
+                  <marking>1</marking>
+                  <stringMarking>1</stringMarking>
+                  <positionPlace class="java.awt.geom.Point2D$Double">
+                    <x>3.2</x>
+                    <y>1.88</y>
+                  </positionPlace>
+                  <positionTag class="java.awt.Point">
+                    <x>490</x>
+                    <y>296</y>
+                  </positionTag>
+                  <edspn reference="../../../../../.."/>
+                  <initialStringMarking>1</initialStringMarking>
+                </org.modcs.tools.spn.model.Place>
+                <org.modcs.tools.spn.model.Place>
+                  <name>node2Off</name>
+                  <marking>0</marking>
+                  <stringMarking>0</stringMarking>
+                  <positionPlace class="java.awt.geom.Point2D$Double">
+                    <x>3.2</x>
+                    <y>2.68</y>
+                  </positionPlace>
+                  <positionTag class="java.awt.Point">
+                    <x>495</x>
+                    <y>391</y>
+                  </positionTag>
+                  <edspn reference="../../../../../.."/>
+                  <initialStringMarking>0</initialStringMarking>
+                </org.modcs.tools.spn.model.Place>
+                <org.modcs.tools.spn.model.Place>
+                  <name>nodeOff3</name>
+                  <marking>0</marking>
+                  <stringMarking>0</stringMarking>
+                  <positionPlace class="java.awt.geom.Point2D$Double">
+                    <x>4.36</x>
+                    <y>2.72</y>
+                  </positionPlace>
+                  <positionTag class="java.awt.Point">
+                    <x>651</x>
+                    <y>412</y>
+                  </positionTag>
+                  <edspn>
+                    <numberPlaces>17</numberPlaces>
+                    <numberTransitions>22</numberTransitions>
+                    <numberDelayParameters>0</numberDelayParameters>
+                    <numberMarkingParameters>0</numberMarkingParameters>
+                    <numberRewardMeasures>0</numberRewardMeasures>
+                    <numberLabelModels>0</numberLabelModels>
+                    <numberDefinitions>0</numberDefinitions>
+                    <places>
+                      <org.modcs.tools.spn.model.Place reference="../../../../../../../../.."/>
+                      <org.modcs.tools.spn.model.Place reference="../../../../../../../org.modcs.tools.spn.model.Place[2]"/>
+                      <org.modcs.tools.spn.model.Place reference="../../../../../.."/>
+                      <org.modcs.tools.spn.model.Place reference="../../../../org.modcs.tools.spn.model.Place[4]"/>
+                      <org.modcs.tools.spn.model.Place reference="../../../../org.modcs.tools.spn.model.Place[5]"/>
+                      <org.modcs.tools.spn.model.Place reference="../../../../org.modcs.tools.spn.model.Place[6]"/>
+                      <org.modcs.tools.spn.model.Place reference="../../../../org.modcs.tools.spn.model.Place[7]"/>
+                      <org.modcs.tools.spn.model.Place reference="../../../../org.modcs.tools.spn.model.Place[8]"/>
+                      <org.modcs.tools.spn.model.Place reference="../../../../org.modcs.tools.spn.model.Place[9]"/>
+                      <org.modcs.tools.spn.model.Place reference="../../../../org.modcs.tools.spn.model.Place[10]"/>
+                      <org.modcs.tools.spn.model.Place reference="../../.."/>
+                      <org.modcs.tools.spn.model.Place>
+                        <name>vm3On</name>
+                        <marking>2</marking>
+                        <stringMarking>2</stringMarking>
+                        <positionPlace class="java.awt.geom.Point2D$Double">
+                          <x>4.32</x>
+                          <y>0.48</y>
+                        </positionPlace>
+                        <positionTag class="java.awt.Point">
+                          <x>646</x>
+                          <y>72</y>
+                        </positionTag>
+                        <edspn reference="../../../../../.."/>
+                        <initialStringMarking>2</initialStringMarking>
+                      </org.modcs.tools.spn.model.Place>
+                      <org.modcs.tools.spn.model.Place>
+                        <name>vm3Off</name>
+                        <marking>0</marking>
+                        <stringMarking>0</stringMarking>
+                        <positionPlace class="java.awt.geom.Point2D$Double">
+                          <x>4.36</x>
+                          <y>1.32</y>
+                        </positionPlace>
+                        <positionTag class="java.awt.Point">
+                          <x>645</x>
+                          <y>195</y>
+                        </positionTag>
+                        <edspn reference="../../../../../../../../.."/>
+                        <initialStringMarking>0</initialStringMarking>
+                      </org.modcs.tools.spn.model.Place>
+                      <org.modcs.tools.spn.model.Place>
+                        <name>vm4On</name>
+                        <marking>2</marking>
+                        <stringMarking>2</stringMarking>
+                        <positionPlace class="java.awt.geom.Point2D$Double">
+                          <x>5.68</x>
+                          <y>0.32</y>
+                        </positionPlace>
+                        <positionTag class="java.awt.Point">
+                          <x>815</x>
+                          <y>63</y>
+                        </positionTag>
+                        <edspn reference="../../../../../.."/>
+                        <initialStringMarking>2</initialStringMarking>
+                      </org.modcs.tools.spn.model.Place>
+                      <org.modcs.tools.spn.model.Place>
+                        <name>Vm4Off</name>
+                        <marking>0</marking>
+                        <stringMarking>0</stringMarking>
+                        <positionPlace class="java.awt.geom.Point2D$Double">
+                          <x>5.76</x>
+                          <y>1.2</y>
+                        </positionPlace>
+                        <positionTag class="java.awt.Point">
+                          <x>813</x>
+                          <y>185</y>
+                        </positionTag>
+                        <edspn reference="../../../../../../../../.."/>
+                        <initialStringMarking>0</initialStringMarking>
+                      </org.modcs.tools.spn.model.Place>
+                      <org.modcs.tools.spn.model.Place>
+                        <name>node4On</name>
+                        <marking>1</marking>
+                        <stringMarking>1</stringMarking>
+                        <positionPlace class="java.awt.geom.Point2D$Double">
+                          <x>5.76</x>
+                          <y>1.8</y>
+                        </positionPlace>
+                        <positionTag class="java.awt.Point">
+                          <x>821</x>
+                          <y>283</y>
+                        </positionTag>
+                        <edspn reference="../../.."/>
+                        <initialStringMarking>1</initialStringMarking>
+                      </org.modcs.tools.spn.model.Place>
+                      <org.modcs.tools.spn.model.Place>
+                        <name>node4Off</name>
+                        <marking>0</marking>
+                        <stringMarking>0</stringMarking>
+                        <positionPlace class="java.awt.geom.Point2D$Double">
+                          <x>5.8</x>
+                          <y>2.68</y>
+                        </positionPlace>
+                        <positionTag class="java.awt.Point">
+                          <x>834</x>
+                          <y>391</y>
+                        </positionTag>
+                        <edspn reference="../../.."/>
+                        <initialStringMarking>0</initialStringMarking>
+                      </org.modcs.tools.spn.model.Place>
+                    </places>
+                    <delayParameters/>
+                    <transitions>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>failFront</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../../../../../.."/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../../../../org.modcs.tools.spn.model.Place[2]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>0.9066666666666666</x>
+                          <y>0.8933333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>repairFront</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../../../../org.modcs.tools.spn.model.Place[2]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../../../../../.."/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>0.10666666666666667</x>
+                          <y>0.9733333333333334</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>failVm</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../../.."/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[4]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>2.1866666666666665</x>
+                          <y>0.6533333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>repairVm</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[4]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../../.."/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <arcInhibitors>
+                          <org.modcs.tools.spn.model.ArcInhibitor>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[6]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>293.17811667259167</x>
+                                    <y>429.12960542325675</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>293.17811667259167</double>
+                                  <double>429.12960542325675</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>228.0</x>
+                                    <y>438.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>228.0</double>
+                                  <double>438.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>247.80366972477063</x>
+                                    <y>187.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>247.80366972477063</double>
+                                  <double>187.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcInhibitor>
+                        </arcInhibitors>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>1.4666666666666666</x>
+                          <y>0.6533333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>failNode</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[5]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[6]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>2.1866666666666665</x>
+                          <y>2.1333333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>repairNode</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[6]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[5]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>1.5066666666666666</x>
+                          <y>2.1333333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>failVm2</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[7]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[8]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>3.4266666666666667</x>
+                          <y>0.6133333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>repairVm2</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[8]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[7]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <arcInhibitors>
+                          <org.modcs.tools.spn.model.ArcInhibitor>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[10]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>485.0800824738817</x>
+                                    <y>428.26544704782896</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>485.0800824738817</double>
+                                  <double>428.26544704782896</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>444.0</x>
+                                    <y>432.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>444.0</double>
+                                  <double>432.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>447.22385321100916</x>
+                                    <y>181.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>447.22385321100916</double>
+                                  <double>181.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcInhibitor>
+                        </arcInhibitors>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>2.7866666666666666</x>
+                          <y>0.6533333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>failNode2</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[9]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[10]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>3.506666666666667</x>
+                          <y>1.9733333333333334</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>repairNode2</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[10]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[9]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>2.7866666666666666</x>
+                          <y>2.013333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>failNode3</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place>
+                              <name>node3On</name>
+                              <marking>1</marking>
+                              <stringMarking>1</stringMarking>
+                              <positionPlace class="java.awt.geom.Point2D$Double">
+                                <x>4.32</x>
+                                <y>1.96</y>
+                              </positionPlace>
+                              <positionTag class="java.awt.Point">
+                                <x>645</x>
+                                <y>294</y>
+                              </positionTag>
+                              <edspn reference="../../../../../.."/>
+                              <initialStringMarking>1</initialStringMarking>
+                            </place>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../.."/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>4.666666666666667</x>
+                          <y>2.0533333333333332</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>repairNode3</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../.."/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../org.modcs.tools.spn.model.TransitionExponential[11]/arcInputs/org.modcs.tools.spn.model.ArcInput/place"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>3.9466666666666668</x>
+                          <y>2.0933333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>failVm3</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[12]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[13]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>4.666666666666667</x>
+                          <y>0.6533333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>repairVm3</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[13]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[12]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <arcInhibitors>
+                          <org.modcs.tools.spn.model.ArcInhibitor>
+                            <place reference="../../../../../.."/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>660.9514733504202</x>
+                                    <y>441.00289435598194</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>660.9514733504202</double>
+                                  <double>441.00289435598194</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>630.0</x>
+                                    <y>456.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>630.0</double>
+                                  <double>456.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>622.1290877796902</x>
+                                    <y>187.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>622.1290877796902</double>
+                                  <double>187.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcInhibitor>
+                        </arcInhibitors>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>3.9466666666666668</x>
+                          <y>0.6933333333333334</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>failVm4</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[14]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[15]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>6.066666666666666</x>
+                          <y>0.49333333333333335</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>repairVm4</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[15]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[14]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <arcInhibitors>
+                          <org.modcs.tools.spn.model.ArcInhibitor>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[17]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>875.066353768801</x>
+                                    <y>428.10729404919687</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>875.066353768801</double>
+                                  <double>428.10729404919687</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>828.0</x>
+                                    <y>432.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>828.0</double>
+                                  <double>432.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>820.1423550087874</x>
+                                    <y>169.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>820.1423550087874</double>
+                                  <double>169.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcInhibitor>
+                        </arcInhibitors>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>5.266666666666667</x>
+                          <y>0.5733333333333334</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>failNode4</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[16]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[17]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>6.1066666666666665</x>
+                          <y>1.9333333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionExponential>
+                        <name>repairNode4</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[17]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[16]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionExponential" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>5.386666666666667</x>
+                          <y>1.9333333333333333</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <randomVariateGenerator class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
+                          <map>
+                            <entry>
+                              <string>Mean delay</string>
+                              <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                                <value>0.0</value>
+                              </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
+                            </entry>
+                          </map>
+                          <constructorDistributionOrder>
+                            <string>Mean delay</string>
+                          </constructorDistributionOrder>
+                          <paramNames reference="../constructorDistributionOrder"/>
+                          <disInitialValues>
+                            <double>0.0</double>
+                          </disInitialValues>
+                        </randomVariateGenerator>
+                        <stringLogicCondition></stringLogicCondition>
+                      </org.modcs.tools.spn.model.TransitionExponential>
+                      <org.modcs.tools.spn.model.TransitionImmediate>
+                        <name>TI0</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[14]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[15]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>982.0678733031674</x>
+                                    <y>97.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>982.0678733031674</double>
+                                  <double>97.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>972.0</x>
+                                    <y>186.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>972.0</double>
+                                  <double>186.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>907.538326245359</x>
+                                    <y>200.28192771809412</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>907.538326245359</double>
+                                  <double>200.28192771809412</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <arcInhibitors>
+                          <org.modcs.tools.spn.model.ArcInhibitor>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[16]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>907.538326245359</x>
+                                    <y>290.28192771809415</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>907.538326245359</double>
+                                  <double>290.28192771809415</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>972.0</x>
+                                    <y>276.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>972.0</double>
+                                  <double>276.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>967.0897755610972</x>
+                                    <y>97.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>967.0897755610972</double>
+                                  <double>97.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcInhibitor>
+                        </arcInhibitors>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>6.506666666666667</x>
+                          <y>0.09333333333333334</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <priority>1</priority>
+                        <weight>1.0</weight>
+                      </org.modcs.tools.spn.model.TransitionImmediate>
+                      <org.modcs.tools.spn.model.TransitionImmediate>
+                        <name>TI1</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../../.."/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[4]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>393.08583690987126</x>
+                                    <y>115.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>393.08583690987126</double>
+                                  <double>115.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>378.0</x>
+                                    <y>210.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>378.0</double>
+                                  <double>210.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>325.9199175261203</x>
+                                    <y>214.7345529521709</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>325.9199175261203</double>
+                                  <double>214.7345529521709</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <arcInhibitors>
+                          <org.modcs.tools.spn.model.ArcInhibitor>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[5]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>325.58342057979354</x>
+                                    <y>320.4908780294552</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>325.58342057979354</double>
+                                  <double>320.4908780294552</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>366.0</x>
+                                    <y>312.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>366.0</double>
+                                  <double>312.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>393.49885583524025</x>
+                                    <y>115.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>393.49885583524025</double>
+                                  <double>115.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcInhibitor>
+                        </arcInhibitors>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>2.466666666666667</x>
+                          <y>0.21333333333333335</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <priority>1</priority>
+                        <weight>1.0</weight>
+                      </org.modcs.tools.spn.model.TransitionImmediate>
+                      <org.modcs.tools.spn.model.TransitionImmediate>
+                        <name>TI2</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[7]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[8]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>584.2</x>
+                                    <y>115.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>584.2</double>
+                                  <double>115.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>564.0</x>
+                                    <y>216.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>564.0</double>
+                                  <double>216.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>523.9993115257649</x>
+                                    <y>216.33614023927927</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>523.9993115257649</double>
+                                  <double>216.33614023927927</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <arcInhibitors>
+                          <org.modcs.tools.spn.model.ArcInhibitor>
+                            <place reference="../../../../../../../org.modcs.tools.spn.model.Place[9]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>523.9989197573614</x>
+                                    <y>312.2947482130804</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>523.9989197573614</double>
+                                  <double>312.2947482130804</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>552.0</x>
+                                    <y>312.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>552.0</double>
+                                  <double>312.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>584.908466819222</x>
+                                    <y>115.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>584.908466819222</double>
+                                  <double>115.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcInhibitor>
+                        </arcInhibitors>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>3.7466666666666666</x>
+                          <y>0.21333333333333335</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <priority>1</priority>
+                        <weight>1.0</weight>
+                      </org.modcs.tools.spn.model.TransitionImmediate>
+                      <org.modcs.tools.spn.model.TransitionImmediate>
+                        <name>TI3</name>
+                        <firingPolicy>SINGLE_SERVER</firingPolicy>
+                        <raceType>RACE_WITH_ENABLING_MEMORY</raceType>
+                        <turned>false</turned>
+                        <delay>0.0</delay>
+                        <arcInputs>
+                          <org.modcs.tools.spn.model.ArcInput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[12]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                          </org.modcs.tools.spn.model.ArcInput>
+                        </arcInputs>
+                        <arcOutputs>
+                          <org.modcs.tools.spn.model.ArcOutput>
+                            <place reference="../../../../../places/org.modcs.tools.spn.model.Place[13]"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>748.3061224489796</x>
+                                    <y>109.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>748.3061224489796</double>
+                                  <double>109.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>738.0</x>
+                                    <y>210.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>738.0</double>
+                                  <double>210.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>697.58342057979</x>
+                                    <y>218.4908780294559</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>697.58342057979</double>
+                                  <double>218.4908780294559</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcOutput>
+                        </arcOutputs>
+                        <arcInhibitors>
+                          <org.modcs.tools.spn.model.ArcInhibitor>
+                            <place reference="../../../../org.modcs.tools.spn.model.TransitionExponential[11]/arcInputs/org.modcs.tools.spn.model.ArcInput/place"/>
+                            <multiplicity>1</multiplicity>
+                            <transition class="org.modcs.tools.spn.model.TransitionImmediate" reference="../../.."/>
+                            <points>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>689.121708175084</x>
+                                    <y>308.3034899430157</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>689.121708175084</double>
+                                  <double>308.3034899430157</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>732.0</x>
+                                    <y>282.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>732.0</double>
+                                  <double>282.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
+                                <unserializable-parents/>
+                                <java.awt.geom.Point2D_-Double>
+                                  <default>
+                                    <x>748.4550128534704</x>
+                                    <y>109.0</y>
+                                  </default>
+                                </java.awt.geom.Point2D_-Double>
+                                <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                                  <default/>
+                                  <double>748.4550128534704</double>
+                                  <double>109.0</double>
+                                </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                              </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
+                            </points>
+                          </org.modcs.tools.spn.model.ArcInhibitor>
+                        </arcInhibitors>
+                        <positionTransition class="java.awt.geom.Point2D$Double">
+                          <x>4.986666666666666</x>
+                          <y>0.17333333333333334</y>
+                        </positionTransition>
+                        <countRemaingInList>0</countRemaingInList>
+                        <priority>1</priority>
+                        <weight>1.0</weight>
+                      </org.modcs.tools.spn.model.TransitionImmediate>
+                    </transitions>
+                    <labelModels>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>frontOn</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>0.48</x>
+                          <y>0.64</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>frontOff</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>0.52</x>
+                          <y>1.96</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>failFront</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>0.96</x>
+                          <y>1.0</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>repairFront</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>-0.04</x>
+                          <y>1.08</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>vmOn</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>1.8</x>
+                          <y>0.36</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>vmOff</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>1.88</x>
+                          <y>1.6</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>failVm</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>2.16</x>
+                          <y>0.76</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>repairVm</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>1.24</x>
+                          <y>0.76</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>nodeOn</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>1.76</x>
+                          <y>1.88</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>nodeOff</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>1.84</x>
+                          <y>3.08</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>failNode</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>2.24</x>
+                          <y>2.24</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>repairNode</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>1.36</x>
+                          <y>2.28</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>vm2On</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>3.12</x>
+                          <y>0.4</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>vm2Off</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>3.16</x>
+                          <y>1.6</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>failVm2</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>3.52</x>
+                          <y>1.2</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>repairVm2</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>2.64</x>
+                          <y>0.76</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>node2On</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>3.12</x>
+                          <y>1.76</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>node2Off</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>3.12</x>
+                          <y>2.96</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>failNode2</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>3.44</x>
+                          <y>2.64</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>repairNode2</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>2.68</x>
+                          <y>2.12</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>nodeOff3</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>4.32</x>
+                          <y>3.0</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>failNode3</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>4.72</x>
+                          <y>2.16</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>repairNode3</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>3.92</x>
+                          <y>2.72</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>vm3On</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>4.24</x>
+                          <y>0.36</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>vm3Off</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>4.28</x>
+                          <y>1.64</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>failVm3</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>4.64</x>
+                          <y>0.72</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>repairVm3</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>3.88</x>
+                          <y>0.76</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>vm4On</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>5.64</x>
+                          <y>0.2</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>Vm4Off</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>5.68</x>
+                          <y>1.52</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>failVm4</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>6.08</x>
+                          <y>0.56</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>repairVm4</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>5.12</x>
+                          <y>0.68</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>node4On</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>5.68</x>
+                          <y>1.68</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>node4Off</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>5.72</x>
+                          <y>2.96</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>failNode4</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>6.2</x>
+                          <y>2.52</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>repairNode4</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>5.16</x>
+                          <y>2.08</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>TI0</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>6.56</x>
+                          <y>0.2</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>TI1</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>2.52</x>
+                          <y>0.32</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>TI2</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>3.8</x>
+                          <y>0.32</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                      <org.modcs.tools.spn.model.LabelModel>
+                        <name>TI3</name>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>5.04</x>
+                          <y>0.28</y>
+                        </position>
+                      </org.modcs.tools.spn.model.LabelModel>
+                    </labelModels>
+                    <rewardMeasures/>
+                    <definitions/>
+                  </edspn>
+                  <initialStringMarking>0</initialStringMarking>
+                </org.modcs.tools.spn.model.Place>
+                <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[12]"/>
+                <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[13]"/>
+                <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[14]"/>
+                <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[15]"/>
+                <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[16]"/>
+                <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[17]"/>
+                <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[11]/arcInputs/org.modcs.tools.spn.model.ArcInput/place"/>
+              </places>
+              <delayParameters/>
+              <transitions>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[2]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[3]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[4]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[5]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[6]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[7]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[8]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[9]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[10]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[11]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[12]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[13]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[14]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[15]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[16]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[17]"/>
+                <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[18]"/>
+                <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate"/>
+                <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate[2]"/>
+                <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate[3]"/>
+                <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate[4]"/>
+              </transitions>
+              <labelModels>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[2]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[3]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[4]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[5]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[6]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[7]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[8]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[9]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[10]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[11]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[12]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[13]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[14]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[15]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[16]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[17]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[18]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[19]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[20]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[21]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[22]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[23]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[24]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[25]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[26]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[27]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[28]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[29]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[30]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[31]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[32]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[33]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[34]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[35]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[36]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[37]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[38]"/>
+                <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[39]"/>
+                <org.modcs.tools.spn.model.LabelModel>
+                  <name>node3On</name>
+                  <position class="java.awt.geom.Point2D$Double">
+                    <x>4.2</x>
+                    <y>1.84</y>
+                  </position>
+                </org.modcs.tools.spn.model.LabelModel>
+              </labelModels>
+              <rewardMeasures/>
+              <definitions/>
+            </edspn>
+            <initialStringMarking>2</initialStringMarking>
+          </org.modcs.tools.spn.model.Place>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[4]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[5]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[6]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[7]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[8]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[9]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[10]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[11]/arcInputs/org.modcs.tools.spn.model.ArcInput/place"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[12]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[13]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[14]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[15]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[16]"/>
+          <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[17]"/>
+        </places>
+        <delayParameters/>
+        <transitions>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[2]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[3]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[4]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[5]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[6]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[7]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[8]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[9]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[10]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[11]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[12]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[13]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[14]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[15]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[16]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[17]"/>
+          <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[18]"/>
+          <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate"/>
+          <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate[2]"/>
+          <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate[3]"/>
+          <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate[4]"/>
+        </transitions>
+        <labelModels>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[2]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[3]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[4]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[5]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[6]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[7]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[8]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[9]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[10]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[11]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[12]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[13]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[14]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[15]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[16]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[17]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[18]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[19]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[20]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[40]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[21]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[22]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[23]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[24]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[25]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[26]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[27]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[28]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[29]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[30]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[31]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[32]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[33]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[34]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[35]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[36]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[37]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[38]"/>
+          <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[39]"/>
+        </labelModels>
+        <rewardMeasures/>
+        <definitions/>
+      </edspn>
+      <initialStringMarking>1</initialStringMarking>
+    </org.modcs.tools.spn.model.Place>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[2]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[4]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[5]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[6]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[7]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[8]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[9]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[10]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[12]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[13]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[14]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[15]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[16]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/places/org.modcs.tools.spn.model.Place[17]"/>
+    <org.modcs.tools.spn.model.Place reference="../org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[11]/arcInputs/org.modcs.tools.spn.model.ArcInput/place"/>
+  </places>
+  <delayParameters/>
+  <transitions>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[2]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[3]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[4]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[5]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[6]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[7]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[8]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[9]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[10]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[11]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[12]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[13]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[14]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[15]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[16]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[17]"/>
+    <org.modcs.tools.spn.model.TransitionExponential reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionExponential[18]"/>
+    <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate"/>
+    <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate[2]"/>
+    <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate[3]"/>
+    <org.modcs.tools.spn.model.TransitionImmediate reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/transitions/org.modcs.tools.spn.model.TransitionImmediate[4]"/>
+  </transitions>
+  <labelModels>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[2]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[3]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[4]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[5]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[6]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[7]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[8]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[9]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[10]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[11]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[12]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[13]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[14]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[15]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[16]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[17]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[18]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[19]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[20]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[21]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[22]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[23]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[24]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[25]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[26]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[27]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[28]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[29]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[30]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[31]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[32]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[33]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[34]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[35]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[36]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[37]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[38]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/places/org.modcs.tools.spn.model.Place[11]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[39]"/>
+    <org.modcs.tools.spn.model.LabelModel reference="../../places/org.modcs.tools.spn.model.Place/edspn/places/org.modcs.tools.spn.model.Place[3]/edspn/labelModels/org.modcs.tools.spn.model.LabelModel[40]"/>
+  </labelModels>
+  <rewardMeasures/>
+  <definitions/>
+</org.modcs.tools.spn.model.EDSPN>
